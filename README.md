@@ -80,5 +80,10 @@ The application will open in your browser. You will see the live webcam feed and
 - Raise only your thumb to clear the canvas.  
 - Raise all fingers except the pinky to submit the canvas for solving.
 
+## 🙌 Credits
+
+Made with ❤️ by **Manan Garg**  
+Feel free to fork, star ⭐, and improve it!
+
 ## License
 This project is licensed under the MIT License.
