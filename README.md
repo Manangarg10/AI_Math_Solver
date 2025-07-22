@@ -81,5 +81,4 @@ The application will open in your browser. You will see the live webcam feed and
 - Raise all fingers except the pinky to submit the canvas for solving.
 
 ## License
-
-This project is intended for educational and demonstration purposes only.
+This project is licensed under the MIT License.
