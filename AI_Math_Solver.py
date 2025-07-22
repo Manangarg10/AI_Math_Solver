@@ -17,7 +17,7 @@ with col2:
     output_text_area = st.title("Answer")
     output_text_area = st.subheader("")
 
-genai.configure(api_key="AIzaSyCtKMA3zi80WSRqGsmr2wNu-OK5HnBSvK4")
+genai.configure(api_key=" ")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 cap = cv2.VideoCapture(0)
